@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bulb-on-off/static/css/main.525383fc.chunk.css",
+    "main.js": "/bulb-on-off/static/js/main.0f811b44.chunk.js",
+    "main.js.map": "/bulb-on-off/static/js/main.0f811b44.chunk.js.map",
+    "runtime-main.js": "/bulb-on-off/static/js/runtime-main.4025bb68.js",
+    "runtime-main.js.map": "/bulb-on-off/static/js/runtime-main.4025bb68.js.map",
+    "static/js/2.179b107b.chunk.js": "/bulb-on-off/static/js/2.179b107b.chunk.js",
+    "static/js/2.179b107b.chunk.js.map": "/bulb-on-off/static/js/2.179b107b.chunk.js.map",
+    "index.html": "/bulb-on-off/index.html",
+    "precache-manifest.ebd183b273ad891bed5dc52af4544014.js": "/bulb-on-off/precache-manifest.ebd183b273ad891bed5dc52af4544014.js",
+    "service-worker.js": "/bulb-on-off/service-worker.js",
+    "static/css/main.525383fc.chunk.css.map": "/bulb-on-off/static/css/main.525383fc.chunk.css.map",
+    "static/js/2.179b107b.chunk.js.LICENSE.txt": "/bulb-on-off/static/js/2.179b107b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4025bb68.js",
+    "static/js/2.179b107b.chunk.js",
+    "static/css/main.525383fc.chunk.css",
+    "static/js/main.0f811b44.chunk.js"
+  ]
+}
